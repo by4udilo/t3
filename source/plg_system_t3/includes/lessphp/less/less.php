@@ -10173,4 +10173,4 @@ class Less_SourceMap_Generator extends Less_Configurable {
 		return array_search($filename, array_keys($this->sources));
 	}
 
-} 
+}  
